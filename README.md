@@ -1,6 +1,6 @@
 # Chat Bot Samuel GPT
 
-<img src="doc/logo.png" alt="logo_samuelflm">
+<img src="Doc/logo.png" alt="logo_samuelflm">
 
 
 > Chat Bot Samuel GPT.<br>
@@ -10,6 +10,6 @@
 
 > Desenvolvi uma tela de chat para realizar a interacao com o usuario.
 
-<img src="doc/interface.png" alt="interface">
+<img src="Doc/interface.png" alt="interface">
 
-![home](doc//gif_bot.gif)
+![home](Doc//gif_bot.gif)
