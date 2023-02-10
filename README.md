@@ -1,0 +1,15 @@
+# Chat Bot Samuel GPT
+
+<img src="doc/logo.png" alt="logo_samuelflm">
+
+
+> Chat Bot Samuel GPT.<br>
+> Projeto foi pensando e desenvolvido com o proposito de praticar e aplicar conceitos tecnicos de programacao.<br> Sem Fins lucrativos ou algo para prejudicar a marca.
+
+### Progresso
+
+> Desenvolvi uma tela de chat para realizar a interacao com o usuario.
+
+<img src="doc/interface.png" alt="interface">
+
+![home](doc//gif_bot.gif)
