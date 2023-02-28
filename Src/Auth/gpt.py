@@ -2,7 +2,7 @@ import openai
 
 class GPT:
     def __init__(self) -> None:
-        self.api_key = openai.api_key = "sua_chave_api"
+        self.api_key = openai.api_key = "sua chave"
         self.model = "text-davinci-003"
     
     def executar(self,mensagem):
