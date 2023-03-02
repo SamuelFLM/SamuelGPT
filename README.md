@@ -8,7 +8,7 @@
 
 ### Progresso
 
-> Desenvolvi uma tela de chat para realizar a interacao com o usuario.
+> Desenvolvi uma tela de chat para realizar a interacao com o usuario..
 
 <img src="Doc/interface.png" alt="interface">
 
